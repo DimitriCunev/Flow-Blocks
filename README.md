@@ -5,9 +5,9 @@ The current version is very unstable and un-usable.
 The code is un-organised and not optimised, because this is just a proof of concept.
 
 Current features:
+- Free camera, mouse interaction etc.
 - Constants
 - Lists
-
 - Basic operators
 - ![img](https://i.imgur.com/YQoUThK.png)
 - Live Code Preview ( unstable )
