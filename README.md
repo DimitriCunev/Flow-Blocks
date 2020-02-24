@@ -7,9 +7,9 @@ The code is un-organised and not optimised, because this is just a proof of conc
 Current features:
 -Constants
 -Lists
-!{img}(https://i.imgur.com/hZrg5Me.png)
+![img](https://i.imgur.com/hZrg5Me.png)
 -Basic operators
-!{img}(https://i.imgur.com/YQoUThK.png)
+![img](https://i.imgur.com/YQoUThK.png)
 -Live Code Preview ( unstable )
 -Arithmetic operators
 -List functions (Sorting alogrithms and reversion)
@@ -26,7 +26,7 @@ Todo:
 -User interface (for adding blocks)
 
 Other images:
-!{img}(https://i.imgur.com/JOPzJbV.png)
-!{img}(https://i.imgur.com/MMBGr3s.png)
-!{img}(https://i.imgur.com/KKktjM3.png)
+![img](https://i.imgur.com/JOPzJbV.png)
+![img](https://i.imgur.com/MMBGr3s.png)
+![img](https://i.imgur.com/KKktjM3.png)
 
