@@ -186,7 +186,7 @@ class object {
                 this.cons.in.forEach((e)=>{
                     objVals.push({y:objects[e].x,val:objects[e].out})
                 })
-                
+                objVals = objVals.flat()
                 objVals = objVals.sort(function(a,b){return a.val-b.val})
                 let flatobjs = []
                 objVals.forEach((e,i)=>{
