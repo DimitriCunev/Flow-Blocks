@@ -6,7 +6,7 @@
 
 Every block has its own properties , and each one analyses a set of input and outputs based on node connections.
 
-### What are connections ?
+### What are block connections ?
 A connection is a uni-dimensional relation between two blocks that is able to send a single value or a set of values.
 Each block reads incoming data , based on the time the connection was initiated. For example, **greater** block will return A>B only if *A* was connected earlier than *B*. To make things easier , blocks like **greater** can read tuples like [A,B] ( that will return list[0]>list[1] )
 
